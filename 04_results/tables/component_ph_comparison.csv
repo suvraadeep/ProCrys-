@@ -1,0 +1,4 @@
+Approach,Best Model,RMSE,R²
+Simple Baseline,CatBoost,0.3544,0.9558
+Advanced Baseline,CatBoost,0.1371,0.9934
+Transformer,Hybrid Transformer,0.3882,0.9447

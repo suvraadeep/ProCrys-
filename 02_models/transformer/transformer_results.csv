@@ -1,0 +1,2 @@
+Model,Component_Name_Accuracy,Component_Conc_RMSE,Component_Conc_R2,Component_pH_RMSE,Component_pH_R2,Total_Parameters,Training_Epochs,Best_Val_Loss
+Hybrid Transformer,0.5384615384615384,0.521449,0.3811990066120674,0.38821477,0.9447010618953706,644020,50,4.120600891113281

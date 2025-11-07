@@ -1,0 +1,25 @@
+Column,Data_Type,Missing_Count,Missing_Percentage,Unique_Values
+Component_6_pH,float64,11258,99.24188998589563,21
+Component_5_pH,float64,11050,97.4083215796897,32
+Component_6_Conc,object,10811,95.30148095909732,110
+Component_4_pH,float64,10702,94.34062059238364,49
+Component_6_Name,object,10523,92.76269393511988,347
+Component_5_Conc,object,10496,92.524682651622,172
+Component_5_Name,object,10052,88.61071932299012,550
+Component_3_pH,float64,9951,87.7203808180536,55
+Component_4_Conc,object,9679,85.32263751763047,267
+Component_2_pH,float64,8793,77.512341325811,72
+Component_4_Name,object,8685,76.56029619181946,822
+Component_1_pH,float64,8419,74.2154442877292,74
+Component_3_Conc,object,6662,58.727080394922424,391
+Component_3_Name,object,5593,49.303596614950635,1292
+Component_2_Conc,object,3728,32.86318758815233,459
+pH,float64,3270,28.82581100141044,95
+Component_2_Name,object,2559,22.558180535966148,1451
+Component_1_Conc,object,1905,16.793018335684064,551
+Percent Solvent Content,float64,111,0.9784908321579691,3008
+Matthews Coefficient,float64,108,0.9520451339915375,257
+Component_1_Name,object,6,0.05289139633286319,2432
+Crystallization Method,object,5,0.044076163610719324,13
+Temp (K),float64,5,0.044076163610719324,67
+Entry ID,object,0,0.0,11344

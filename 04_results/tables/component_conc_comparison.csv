@@ -1,0 +1,4 @@
+Approach,Best Model,RMSE,R²
+Simple Baseline,Not Available,N/A,N/A
+Advanced Baseline,RandomForest,0.8066,0.4733
+Transformer,Hybrid Transformer,0.5214,0.3812

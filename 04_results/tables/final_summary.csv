@@ -1,0 +1,9 @@
+Metric,Simple Baseline,Advanced Baseline,Transformer
+Component_1_Name Accuracy,61.12%,64.18%,53.85%
+Component_1_Conc R²,N/A (parsing failed),47.33%,38.12%
+Component_1_pH R²,95.58%,99.34%,94.47%
+Best Overall Approach,No,YES ⭐,No
+Key Innovation,Basic TF-IDF,Unit parsing + Domain constraints,Attention mechanism
+Training Time (approx),5-10 min,5-10 min,15-20 min
+Model Complexity,Low,Low-Medium,High
+Concentration Parsing Success,0%,83.21%,83.21%

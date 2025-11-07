@@ -1,0 +1,4 @@
+Approach,Best Model,Accuracy
+Simple Baseline,LightGBM,0.6112
+Advanced Baseline,XGBoost,0.6418
+Transformer,Hybrid Transformer,0.5385
